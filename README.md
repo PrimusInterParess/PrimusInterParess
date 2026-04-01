@@ -6,14 +6,15 @@ I build practical web applications with a focus on intelligent automation and se
 ---
 
 ### 💻 Core Stack & Tools
-**Backend:**  
-![C#](https://shields.io) ![.NET](https://shields.io) ![EF Core](https://shields.io) ![SQL Server](https://shields.io)
+
+**Backend & DB:**  
+`C#` `ASP.NET Core` `.NET 8` `EF Core` `SQL Server` `SignalR`
 
 **Frontend:**  
-![Angular](https://shields.io) ![TypeScript](https://shields.io) ![SignalR](https://shields.io)
+`Angular` `TypeScript` `HTML5` `CSS3` `RxJS`
 
 **Integrations & Cloud:**  
-![Azure](https://shields.io) ![OpenAI](https://shields.io) ![Stripe](https://shields.io) ![Auth0](https://shields.io)
+`Azure` `OpenAI API` `Anthropic` `Stripe` `Auth0`
 
 ---
 
@@ -26,9 +27,9 @@ I build practical web applications with a focus on intelligent automation and se
 ---
 
 ### 📂 Selected Projects
-*   **[ApplyVault](https://github.com)** – Job-capture workspace (Chrome Ext + ASP.NET Core + Angular).
-*   **[RaceCorp](https://github.com)** – MTB community platform with real-time chat and team management.
-*   **[ImageSorting](https://github.com)** – Media management tool using Azure Blob Storage.
+*   **ApplyVault** – Job-capture workspace (Chrome Ext + ASP.NET Core + Angular).
+*   **RaceCorp** – MTB community platform with real-time chat and team management.
+*   **ImageSorting** – Media management tool using Azure Blob Storage.
 
 ---
 
@@ -38,5 +39,6 @@ Before software engineering, I spent **15 years in international procurement**. 
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://shields.io)](https://linkedin.com/in/yordan-dani-borisov-3b38a2239)
-[![GitHub](https://shields.io)](https://github.com/PrimusInterParess)
+- **LinkedIn:** [yordan-dani-borisov](https://linkedin.com)
+- **GitHub:** [PrimusInterParess](https://github.com)
+- **Location:** Sofia, Bulgaria 🇧🇬 / Denmark 🇩🇰
