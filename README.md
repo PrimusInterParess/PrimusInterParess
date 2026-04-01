@@ -1,48 +1,42 @@
-# Hi, I'm Yordan Borisov
+# 👋 Hi, I'm Yordan (Dani) Borisov
+### Full-stack Software Developer | C#, ASP.NET Core, Angular & AI Integrations
 
-Full-stack Software Developer building practical web applications with C#, ASP.NET Core, Angular, and AI integrations.
+I build practical web applications with a focus on intelligent automation and secure integrations. Currently based in **Sofia, Bulgaria** and relocating to **Denmark** (EU Citizen).
 
-I currently work on healthcare software, with a focus on intelligent automation, secure integrations, and user-centered product development. My background includes real-world experience with Azure Speech, LLM-powered summarization workflows, Stripe, Auth0, SignalR, and SQL Server.
+---
 
-I am currently based in Sofia, Bulgaria and relocating to Denmark. EU citizen, no sponsorship required.
+### 💻 Core Stack & Tools
+**Backend:**  
+![C#](https://shields.io) ![.NET](https://shields.io) ![EF Core](https://shields.io) ![SQL Server](https://shields.io)
 
-## Core Stack
+**Frontend:**  
+![Angular](https://shields.io) ![TypeScript](https://shields.io) ![SignalR](https://shields.io)
 
-- C#
-- ASP.NET Core
-- Angular
-- TypeScript
-- Entity Framework Core
-- SQL Server
-- SignalR
-- Stripe
-- Auth0
-- Azure Cognitive Services
-- OpenAI / Anthropic APIs
+**Integrations & Cloud:**  
+![Azure](https://shields.io) ![OpenAI](https://shields.io) ![Stripe](https://shields.io) ![Auth0](https://shields.io)
 
-## Professional Highlights
+---
 
-- Helped build a transcription and summarization workflow that reduced therapist note-generation time by up to 90%
-- Contributed across frontend and backend architecture, planning, implementation, and code reviews
-- Owned Stripe and Auth0 integrations for billing and authentication
-- Built real-time collaboration features using SignalR
+### 🚀 Professional Highlights
+- **Healthcare Automation:** Built a transcription & LLM summarization workflow, reducing therapist note-generation time by **up to 90%**.
+- **Full-cycle Development:** Contributed to architecture, frontend/backend implementation, and peer code reviews.
+- **FinTech & Auth:** Owned **Stripe** billing cycles and **Auth0** identity management integrations.
+- **Real-time:** Developed collaborative features using **SignalR**.
 
-## Selected Projects
+---
 
-### ApplyVault
-A job-capture workspace combining a Chrome extension, ASP.NET Core API, and Angular dashboard.
+### 📂 Selected Projects
+*   **[ApplyVault](https://github.com)** – Job-capture workspace (Chrome Ext + ASP.NET Core + Angular).
+*   **[RaceCorp](https://github.com)** – MTB community platform with real-time chat and team management.
+*   **[ImageSorting](https://github.com)** – Media management tool using Azure Blob Storage.
 
-### RaceCorp
-A community platform for MTB enthusiasts with chat, teams, maps, image storage, and email integrations.
+---
 
-### ImageSorting
-A cloud-oriented media management tool using Angular, Azure Blob Storage, and a desktop image-sorting utility.
+### 📜 Background
+Before software engineering, I spent **15 years in international procurement**. This unique background allows me to bridge the gap between complex business requirements and efficient technical solutions.
 
-## Background
+---
 
-Before software engineering, I spent 15 years in international procurement. That experience shaped how I work with stakeholders, prioritize business value, and build software that solves real operational problems.
-
-## Connect
-
-- LinkedIn: [linkedin.com/in/yordan-dani-borisov-3b38a2239](https://linkedin.com/in/yordan-dani-borisov-3b38a2239)
-- GitHub: [github.com/PrimusInterParess](https://github.com/PrimusInterParess)
+### 📫 Connect with me
+[![LinkedIn](https://shields.io)](https://linkedin.com/in/yordan-dani-borisov-3b38a2239)
+[![GitHub](https://shields.io)](https://github.com/PrimusInterParess)
