@@ -4,7 +4,7 @@
 Product-oriented developer building high-impact healthcare and community applications. Expert in the **.NET/Angular** stack with a focus on **AI integrations (LLMs)** and **Fintech (Stripe)**.
 
 📍 **Relocating to:** Fruenshave 24, 8541 Skødstrup, Denmark (Aarhus area)  
-🇩🇰 **EU Citizen** | No sponsorship required | **Danish: A2** (Currently learning)
+🇩🇰 **EU Citizen** | **Danish: A2** (Currently learning B1)
 
 ---
 
