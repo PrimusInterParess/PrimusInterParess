@@ -3,9 +3,6 @@
 
 Product-oriented developer building high-impact healthcare and community applications. Expert in the **.NET/Angular** stack with a focus on **AI integrations (LLMs)** and **Fintech (Stripe)**.
 
-📍 **Relocating to:** Fruenshave 24, 8541 Skødstrup, Denmark (Aarhus area)  
-🇩🇰 **EU Citizen** | **Danish: B1** 
-
 ---
 
 ### 💻 Tech Stack & Competencies
@@ -57,4 +54,4 @@ I am a father of three and a dedicated endurance athlete. Whether it’s **mount
 - 📞 **Phone:** [+45 36 21 63 02](tel:+4536216302)
 - 📧 **Email:** [diesonnekind@gmail.com](mailto:diesonnekind@gmail.com)
 - 💼 **LinkedIn:** [yordan-dani-borisov](https://linkedin.com)
-- 📍 **Target Location:** Aarhus, Denmark 🇩🇰
+- 📍 **Location:** Fruenshave 24, 8541 Skødstrup, Denmark (Aarhus area) 
