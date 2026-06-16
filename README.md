@@ -53,5 +53,5 @@ I am a father of three and a dedicated endurance athlete. Whether it’s **mount
 ### 📫 Contact Me
 - 📞 **Phone:** [+45 36 21 63 02](tel:+4536216302)
 - 📧 **Email:** [diesonnekind@gmail.com](mailto:diesonnekind@gmail.com)
-- 💼 **LinkedIn:** [yordan-dani-borisov](https://linkedin.com)
+- 💼 **LinkedIn:** [yordan-dani-borisov]([https://linkedin.com](https://www.linkedin.com/in/yordan-dani-borisov-3b38a2239))
 - 📍 **Location:** Fruenshave 24, 8541 Skødstrup, Denmark (Aarhus area) 
