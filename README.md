@@ -1,57 +1,60 @@
-# 👋 Hi, I'm Yordan (Dani) Borisov
-### Full-stack Software Developer | .NET & Angular Specialist
+# Hi, I'm Yordan (Dani) Borisov
+### Full-stack Software Developer · .NET & Angular
 
-Product-oriented developer building high-impact healthcare and community applications. Expert in the **.NET/Angular** stack with a focus on **AI integrations (LLMs)** and **Fintech (Stripe)**.
-
----
-
-### 💻 Tech Stack & Competencies
-
-*   **Backend:** `C#` `.NET 8` `ASP.NET Core` `EF Core` `SignalR` `Clean Architecture`
-*   **Frontend:** `Angular (v14+)` `TypeScript` `RxJS` `Bootstrap`
-*   **AI & Automation:** `Azure Cognitive Services (Speech)` `OpenAI/Anthropic APIs` `Prompt Engineering`
-*   **Fintech & Auth:** `Stripe (Subscriptions/Webhooks)` `Auth0 Implementation`
-*   **DevOps & DB:** `SQL Server` `Azure Pipelines (CI/CD)` `Blob Storage`
+Product-oriented developer building healthcare and community applications. Focused on the **.NET / Angular** stack, **AI integrations (LLMs)**, and practical product delivery.
 
 ---
 
-### 🚀 Professional Experience
+### Tech stack
+
+- **Backend:** `C#` · `.NET 8` · `ASP.NET Core` · `EF Core` · `SignalR`
+- **Frontend:** `Angular` · `TypeScript` · `RxJS`
+- **AI:** Azure Speech · Gemini / LLM APIs · prompt engineering
+- **Auth & payments:** Auth0 · Stripe · Supabase Auth
+- **Data & cloud:** SQL Server · Azure Blob · Azure Pipelines
+
+---
+
+### Experience
 
 **Software Developer @ Object Systems International** (2023 – Present)  
-*Project: TheraPro (Healthcare Web Platform)*
-- **AI Innovation:** Developed a transcription and summarization engine using **Azure Speech** and **LLMs**, significantly automating the generation of clinical progress notes.
-- **Full-Stack Ownership:** Lead contributor to system design and planning; managed end-to-end integration of **Stripe** billing and **Auth0** authentication.
-- **Real-time Collaboration:** Implemented communication protocols using **SignalR** to enhance practitioner workflow.
+*TheraPro — healthcare web platform*
+- Built transcription and summarization flows with **Azure Speech** and LLMs for clinical progress notes
+- End-to-end ownership of **Stripe** billing and **Auth0** authentication
+- Real-time practitioner workflows with **SignalR**
 
 **International Procurement Specialist** (2008 – 2023)
-- Managed multi-million dollar budgets and complex stakeholder relations. 
-- *The Pivot:* I bring 15 years of reliability and business logic into writing clean, maintainable code that solves real-world operational problems.
+- Multi-million budgets and complex stakeholder work — now applied as product sense and maintainable code
 
 ---
 
-### 📂 Selected Projects
+### Selected projects
 
-#### 🌍 [OversætMig (Translator Extension)](https://github.com)
-Chrome/Edge extension integrating **local Text-to-Speech** with Google Cloud. Features a local proxy for translations via MyMemory API and AI-assisted explanations.
+#### [ApplyVault](https://github.com/PrimusInterParess/ApplyVault)
+Job-capture workspace: Chrome extension + ASP.NET Core API + Angular dashboard (saved jobs, structured CV builder, interview follow-up). Personal WIP — happy paths work; known gaps live in Issues.
 
-#### 🛠 [ApplyVault](https://github.com)
-A job-capture workspace combining a Chrome extension, ASP.NET Core API, and Angular dashboard.
+#### [OversætMig (Translator)](https://github.com/PrimusInterParess/Translator)
+Chrome/Edge extension + local ASP.NET Core proxy — translation, TTS, Danish verb forms, AI explanations.
 
-#### 🚵 [RaceCorp](https://github.com)
-MTB community platform featuring real-time chat, team creation, and map persistence (Google Storage/SendGrid).
+#### [TheArchitect](https://github.com/PrimusInterParess/TheArchitect)
+Portable multi-agent orchestration library for structured software delivery.
 
-#### ☁️ [ImageSorting](https://github.com)
-Cloud-native media organization tool using Angular UI and **Azure Blob Storage** for metadata-heavy files.
+#### [ImageSorting](https://github.com/PrimusInterParess/ImageSorting)
+Angular + Azure Blob media organizer for metadata-heavy files.
 
----
-
-### 🏃 About Me
-I am a father of three and a dedicated endurance athlete. Whether it’s **mountain biking**, **open-water swimming**, or **skiing**, I bring the same "finish line" mentality and focus to my code. 
+#### [RaceCorp](https://github.com/PrimusInterParess/RaceCorp)
+MTB community platform — teams, maps, real-time chat (ASP.NET Core).
 
 ---
 
-### 📫 Contact Me
-- 📞 **Phone:** [+45 36 21 63 02](tel:+4536216302)
-- 📧 **Email:** [diesonnekind@gmail.com](mailto:diesonnekind@gmail.com)
-- 💼 **LinkedIn:** [yordan-dani-borisov](https://www.linkedin.com/in/yordan-dani-borisov-3b38a2239)
-- 📍 **Location:** Fruenshave 24, 8541 Skødstrup, Denmark (Aarhus area) 
+### About
+
+Father of three and endurance athlete (mountain biking, open-water swimming, skiing). Same finish-line focus in code.
+
+---
+
+### Contact
+
+- **Email:** [diesonnekind@gmail.com](mailto:diesonnekind@gmail.com)
+- **LinkedIn:** [yordan-dani-borisov](https://www.linkedin.com/in/yordan-dani-borisov-3b38a2239)
+- **Location:** Aarhus area, Denmark
