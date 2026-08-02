@@ -1,49 +1,71 @@
 # Hi, I'm Yordan (Dani) Borisov
 ### Full-stack Software Developer · .NET & Angular
 
-Product-oriented developer building healthcare and community applications. Focused on the **.NET / Angular** stack, **AI integrations (LLMs)**, and practical product delivery.
+Dedicated software developer with a 15-year background in international procurement, specializing in **AI-enabled clinical documentation** and healthcare platforms. Builds and scales Admin Portal features with **ASP.NET Core** and **Angular**; strong refactoring, API stewardship, and delivery ownership.
 
 ---
 
 ### Tech stack
 
-- **Backend:** `C#` · `.NET 8` · `ASP.NET Core` · `EF Core` · `SignalR`
+- **Backend:** `C#` · `.NET` / `ASP.NET Core` · `EF Core` · `SignalR` · `SQL Server`
 - **Frontend:** `Angular` · `TypeScript` · `RxJS`
-- **AI:** Azure Speech · Gemini / LLM APIs · prompt engineering
-- **Auth & payments:** Auth0 · Stripe · Supabase Auth
-- **Data & cloud:** SQL Server · Azure Blob · Azure Pipelines
+- **Native:** `Swift` · `SwiftUI` (macOS)
+- **AI:** Azure Speech · OpenAI / Anthropic · Gemini · Cursor
+- **Auth & cloud:** Auth0 · Supabase · Stripe · Azure Blob · Azure Pipelines
+- **Other:** Chrome extensions (MV3)
 
 ---
 
 ### Experience
 
-**Software Developer @ Object Systems International** (2023 – Present)  
-*TheraPro — healthcare web platform*
-- Built transcription and summarization flows with **Azure Speech** and LLMs for clinical progress notes
-- End-to-end ownership of **Stripe** billing and **Auth0** authentication
-- Real-time practitioner workflows with **SignalR**
+**Full-Stack Software Developer @ LifeBonder** (Apr 2026 – Present) · Vejle, Denmark · Part-time, remote  
+Scaling the Admin Portal and stabilizing core infrastructure — architecture modernization and alignment across Frontend, Backend, and ML.
+- Bridge ML / Backend / Frontend so fragmented startup code becomes production-ready
+- Re-architect legacy ASP.NET Core APIs (SOLID), secure secrets (launchSettings / Key Vault), optimize media storage (~15% cost reduction)
+- Design and ship core admin features integrated with existing services  
+**Tech:** ASP.NET Core, Angular
 
-**International Procurement Specialist** (2008 – 2023)
-- Multi-million budgets and complex stakeholder work — now applied as product sense and maintainable code
+**Full-Stack Software Developer @ Object Systems International** (Jun 2023 – Present) · Sofia / TheraPro · Remote  
+Cloud AI integrations, financial lifecycle systems, and real-time sync across Angular and .NET Core.
+- Real-time audio streaming pipelines + cloud AI for low-latency transcription
+- Native **macOS** companion app (**Swift / SwiftUI**) for high-performance audio input
+- AI transcription & summarization (Azure Speech + OpenAI/Anthropic) — ~25% less therapist documentation time
+- Cursor + prompt engineering for faster delivery, refactoring, and tests  
+**Tech:** Angular, .NET Core, Swift, SwiftUI, Azure Speech, OpenAI, Anthropic
+
+**Purchasing Assistant @ Anglo-American School of Sofia** (Mar 2008 – Jun 2023)  
+Vendor operations and multi-million budgets; ~10% cost reduction on key contracts; digital tracking cut procurement cycle time ~20%.
 
 ---
 
 ### Selected projects
 
 #### [ApplyVault](https://github.com/PrimusInterParess/ApplyVault)
-Job-capture workspace: Chrome extension + ASP.NET Core API + Angular dashboard (saved jobs, structured CV builder, interview follow-up). Personal WIP — happy paths work; known gaps live in Issues.
+Job application workspace: Chrome extension (scrape + AI enrichment) + ASP.NET Core API + Angular dashboard (saved jobs, calendars, GitHub→CV summaries, structured CV / PDF export, EURES & Jobnet search, Gmail sync). Personal WIP — happy paths work; known gaps in Issues.  
+**Tech:** ASP.NET Core, Angular, EF Core, SQL Server, Supabase, Chrome Extension
 
 #### [OversætMig (Translator)](https://github.com/PrimusInterParess/Translator)
-Chrome/Edge extension + local ASP.NET Core proxy — translation, TTS, Danish verb forms, AI explanations.
+Chrome/Edge extension + local ASP.NET Core proxy — translation (MyMemory), Google Cloud TTS, Danish verb forms & explanations (LLM).  
+**Tech:** ASP.NET Core, Chrome Extension, MyMemory, Google Cloud TTS, LLMs
 
 #### [TheArchitect](https://github.com/PrimusInterParess/TheArchitect)
-Portable multi-agent orchestration library for structured software delivery.
+IDE-agnostic multi-agent orchestration library — discovery, fleet generation, delegation/handoffs, Cursor-native subagents.  
+**Tech:** AI IDEs, Cursor, PowerShell
 
 #### [ImageSorting](https://github.com/PrimusInterParess/ImageSorting)
-Angular + Azure Blob media organizer for metadata-heavy files.
+Media organizer (.NET Web API + console) — Year/Month folders via EXIF / QuickTime / filesystem timestamps; local disk and **Azure Blob** workflows.  
+**Tech:** .NET, Azure Blob Storage, SQL Server
 
 #### [RaceCorp](https://github.com/PrimusInterParess/RaceCorp)
 MTB community platform — teams, maps, real-time chat (ASP.NET Core).
+
+---
+
+### Education & languages
+
+- **SoftUni** — Professional Program, C# Web Development (2021–2023)
+- **M.A. & B.A.** National Security — Military Academy & Varna Free University
+- **Languages:** Bulgarian (native) · English (fluent) · Danish (B1 / DU3)
 
 ---
 
