@@ -21,7 +21,7 @@ Dedicated software developer with a 15-year background in international procurem
 **Full-Stack Software Developer @ LifeBonder** (Apr 2026 – Present) · Vejle, Denmark · Part-time, remote  
 Scaling the Admin Portal and stabilizing core infrastructure — architecture modernization and alignment across Frontend, Backend, and ML.
 - Bridge ML / Backend / Frontend so fragmented startup code becomes production-ready
-- Re-architect legacy ASP.NET Core APIs (SOLID), secure secrets (launchSettings / Key Vault), optimize media storage (~15% cost reduction)
+- Re-architect legacy ASP.NET Core APIs (SOLID)
 - Design and ship core admin features integrated with existing services  
 **Tech:** ASP.NET Core, Angular
 
